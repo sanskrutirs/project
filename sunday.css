@@ -100,7 +100,7 @@ a:hover, a.active{
 		margin-right: 100px;
 	}
 }	
-@media all and (max-width: 1052px){
+@media (max-width: 1052px){
 	label.logo{
 		font-size: 30px;
 		padding-left: 50px;
@@ -109,7 +109,7 @@ a:hover, a.active{
 		font-size: 16px;
 	}
 }
-@media all and (max-width: 1000px){
+@media (max-width: 1000px){
 	label.logo{
 		font-size: 27px;
 		padding-left: 30px;
@@ -118,7 +118,7 @@ a:hover, a.active{
 		font-size: 15px;
 	}
 }
-@media all and(max-width: 958px){
+@media (max-width: 958px){
 	.checkbtn{
 		display: block;
 	}
