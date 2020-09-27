@@ -149,7 +149,7 @@ a:hover, a.active{
 		left: 0;
 	}
 }
-@media only screen and (max-width: 352px){
+@media only screen and (max-width: 552px){
 	label.logo{
 		font-size: 20px;
 		padding-left: 20px;
