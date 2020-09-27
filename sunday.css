@@ -118,7 +118,7 @@ a:hover, a.active{
 		font-size: 15px;
 	}
 }
-@media (max-width: 958px){
+@media only screen and (max-width: 958px){
 	.checkbtn{
 		display: block;
 	}
