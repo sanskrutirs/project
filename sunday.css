@@ -106,7 +106,7 @@ a:hover, a.active{
 		padding-left:20px;
 	}
 }
-@media (min-width: 285px){
+@media (mix-width: 285px){
 	label.logo{
 		font-size:20px;
 		padding-left:20px;
