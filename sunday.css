@@ -267,9 +267,6 @@ a:hover, a.active{
 	font-weight: 300;
 	letter-spacing: .05rem;
 }
-#services .service-top{
-	margin: 0 auto;
-}
 #services .service-bottom{
 	display: flex;
 	justify-content: center;
