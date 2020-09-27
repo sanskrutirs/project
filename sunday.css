@@ -271,7 +271,7 @@ a:hover, a.active{
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
-	margin-top: 50px;
+	margin-top: 45px;
 }
 #services .service-item{
 	flex-basis: 80%;
