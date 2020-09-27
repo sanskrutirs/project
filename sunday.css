@@ -100,6 +100,12 @@ a:hover, a.active{
 		margin-right: 100px;
 	}
 }
+@media (max-width: 285px){
+	label.logo{
+		font-size:20px;
+		padding-left:20px;
+	}
+}	
 @media (max-width: 1052px){
 	label.logo{
 		font-size: 30px;
