@@ -119,6 +119,10 @@ a:hover, a.active{
 	}
 }	
 @media only screen and (max-width: 958px){
+	label.logo{
+		font-size: 20px;
+		padding-left: 20px;
+	}
 	.checkbtn{
 		display: block;
 	}
@@ -147,12 +151,6 @@ a:hover, a.active{
 	}
 	#check:checked ~ ul{
 		left: 0;
-	}
-}
-@media only screen and (max-width: 552px){
-	label.logo{
-		font-size: 20px;
-		padding-left: 20px;
 	}
 }	
 /*header-end*/
